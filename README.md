@@ -19,4 +19,4 @@ https://drive.google.com/drive/folders/1DrFaRxchrPGjonTYmkeAWqI8vDAX5Z2N
 
 ## Hosting
 - User: https://adncloth.netlify.app
-- Admin:https://admin-adncloth.netlify.app 
+- Admin: https://admin-adncloth.netlify.app 
