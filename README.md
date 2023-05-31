@@ -11,7 +11,7 @@
 - Image search Back-end: https://github.com/nhamt0306/Search-by-image-and-GPT-bot
 
 ## Powerpoint & Doc
-- Powerpoint:
+- Powerpoint: https://www.canva.com/design/DAFfbwEQvpQ/3CtzRY9u6zmo7pDRqLRv7A/edit?utm_content=DAFfbwEQvpQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 - Doc: https://docs.google.com/document/d/1KOc6jyhg2adS3sZbAXyNxci8JSfzdMww/edit
 
 ## Database scripts
