@@ -18,5 +18,5 @@
 https://drive.google.com/drive/folders/1DrFaRxchrPGjonTYmkeAWqI8vDAX5Z2N
 
 ## Hosting
-user: https://adncloth.netlify.app
-admin:https://admin-adncloth.netlify.app 
+- User: https://adncloth.netlify.app
+- Admin:https://admin-adncloth.netlify.app 
